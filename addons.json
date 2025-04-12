@@ -21,8 +21,8 @@
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/citizen-dj-variety.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/citizen-dj-musicbox.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/remote.json",
-    "https://raw.githubusercontent.com/ossia/score-addons/refs/heads/add-ai-models/Media/blazepose-full-body-onnx.json", 
-    "https://raw.githubusercontent.com/ossia/score-addons/refs/heads/add-ai-models/Media/yolov8n-onnx.json", 
-    "https://raw.githubusercontent.com/ossia/score-addons/refs/heads/add-ai-models/Media/rtmpose-s-26-onnx.json"
+    "https://raw.githubusercontent.com/ossia/score-addons/master/add-ai-models/Media/blazepose-full-body-onnx.json",
+    "https://raw.githubusercontent.com/ossia/score-addons/master/add-ai-models/Media/yolov8n-onnx.json",
+    "https://raw.githubusercontent.com/ossia/score-addons/master/add-ai-models/Media/rtmpose-s-26-onnx.json"
   ]
 }
