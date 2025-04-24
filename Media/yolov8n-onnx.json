@@ -1,0 +1,12 @@
+{
+    "name": "YOLOv8 pose detection",
+    "raw_name": "yolov8-pose",
+    "kind": "ai-model",
+    "short": "YOLOv8 lightweight onnx model for pose detection",
+    "license": "agpl-3.0",
+    "size": "12.8M",
+    "key": "89C712DA-2ACA-4D21-B935-44AD6FF6C257",
+    "file": "https://github.com/ossia/score-packages/releases/download/v1.0.0/yolov8n-pose.onnx.zip",
+    "url": "https://huggingface.co/Xenova/yolov8-pose-onnx/tree/main",
+    "category": "AI Models"
+}

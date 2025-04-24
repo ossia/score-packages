@@ -1,0 +1,12 @@
+{
+    "name": "BlazePose full body",
+    "raw_name": "blazepose-full-body",
+    "kind": "ai-model",
+    "short": "BlazePose full-body pose estimation onnx model.",
+    "license": "Apache License 2.0",
+    "size": "12.1M",
+    "key": "5E26BDC2-40EE-4FCC-A5AE-68C9DFA08A00",
+    "file": "https://github.com/ossia/score-packages/releases/download/v1.0.0/pose_landmark_full.onnx.zip",
+    "url": "https://github.com/axinc-ai/ailia-models/tree/master/pose_estimation/blazepose",
+    "category": "AI Models"
+}

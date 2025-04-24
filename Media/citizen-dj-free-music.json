@@ -7,5 +7,6 @@
     "size": "1300M",
     "key": "f4a3b8a7-8374-40df-9079-36673e7e40e9",
     "file": "https://s3.amazonaws.com/citizen-dj-assets.labs.loc.gov/samplepacks/loc.gov_fma_wav.zip",
-    "url": "https://citizen-dj.labs.loc.gov/"
+    "url": "https://citizen-dj.labs.loc.gov/",
+    "category": "Media"
 }

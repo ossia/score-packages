@@ -1,0 +1,12 @@
+{
+    "name": "RTMPose body 2D",
+    "raw_name": "rtmpose-body-2d",
+    "kind": "ai-model",
+    "short": "RTMPose model for 2D human pose estimation, trained on the COCO dataset.",
+    "license": "Apache License 2.0",
+    "size": "20.4M",
+    "key": "FF06AB5C-6054-412F-AD41-CA083BD8B686",
+    "file": "https://github.com/ossia/score-packages/releases/download/v1.0.0/end2end.onnx.zip",
+    "url": "https://github.com/open-mmlab/mmpose/tree/dev-1.x/projects/rtmpose#26-keypoints",
+    "category": "AI Models"
+}
