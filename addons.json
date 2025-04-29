@@ -5,6 +5,7 @@
     "https://raw.githubusercontent.com/jcelerier/guitarixlib/main/addon.json",
     "https://raw.githubusercontent.com/jcelerier/jsfxlib/main/addon.json",
     "https://raw.githubusercontent.com/ossia/bitfocus-modules-data/refs/heads/master/addon.json",
+    "https://raw.githubusercontent.com/ossia/score-addons/master/uv.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/sdk.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/free-midi-chords.json",
     "https://raw.githubusercontent.com/ossia/score-addons/master/Media/dirt-samples.json",
