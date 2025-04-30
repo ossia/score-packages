@@ -1,0 +1,13 @@
+{
+    "name": "Drum kits",
+    "raw_name": "drum-kits",
+    "kind": "media",
+    "short": "Hydrogen drum kits",
+    "key": "6825d11a-b8a3-4315-9a9a-c15beab47d01",
+    "license": "Various",
+    "size": "800M",
+    "version": 1,
+    "file": "https://github.com/jcelerier/drumkits/releases/download/v1.0.0/drumkits.zip",
+    "url": "https://github.com/jcelerier/drumkits",
+    "category": "Media"
+}
