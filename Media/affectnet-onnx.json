@@ -1,0 +1,12 @@
+{
+    "name": "AffectNet emotion detection",
+    "raw_name": "affectnet",
+    "kind": "ai-model",
+    "short": "AffectNet lightweight onnx model for face emotion detection",
+    "license": "agpl-3.0",
+    "size": "32M",
+    "key": "b64ae4ac-939c-4dbc-a8a0-3565f7932a2f",
+    "file": "https://github.com/ossia/score-packages/releases/download/v1.0.0/affectnet-onnx.zip",
+    "url": "https://github.com/sb-ai-lab/EmotiEffLib",
+    "category": "AI Models"
+}
