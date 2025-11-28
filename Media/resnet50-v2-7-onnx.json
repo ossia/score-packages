@@ -1,0 +1,13 @@
+{
+    "name": "ResNet-50 v2",
+    "raw_name": "resnet50-v2-7",
+    "kind": "ai-model",
+    "short": "ResNet-50 v2 ONNX model for image classification, trained on ImageNet dataset with 1000 classes.",
+    "license": "Apache License 2.0",
+    "size": "26M",
+    "key": "5DCF11A0-0B73-48A3-9752-6F06C76342DF",
+    "file": "https://github.com/ossia/score-packages/releases/download/v1.0.0/resnet50-v2-7.onnx.zip",
+    "url": "https://github.com/onnx/models/tree/main/validated/vision/classification/resnet",
+    "category": "AI Models"
+}
+
