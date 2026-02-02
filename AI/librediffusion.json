@@ -11,8 +11,8 @@
     "url": "https://github.com/jcelerier/librediffusion",
     "category": "AI Models",  
     "windows-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
-     "windows-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
-      "linux-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
-       "linux-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+    "windows-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
+    "linux-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+    "linux-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip"
 
 }
