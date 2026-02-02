@@ -1,11 +1,12 @@
 {
-    "name": "StreamDiffusion",
-    "raw_name": "streamdiffusion",
+    "name": "LibreDiffusion",
+    "raw_name": "librediffusion",
     "kind": "ai-model",
     "short": "StreamDiffusion real-time image generation",
     "license": "apache-2.0",
-    "size": "10-20GB",
+    "size": "20MB",
     "key": "d0add344-cb23-4d3f-817b-3619505565d1",
+    "version": 1,
     "file": "https://github.com/jcelerier/StreamDiffusion-uv/archive/refs/heads/main.zip",
     "url": "https://github.com/jcelerier/streamdiffusion-uv",
     "category": "AI Models"

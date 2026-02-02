@@ -1,6 +1,6 @@
 {
     "name": "Remote Control",
-    "raw_name": "build-wasm",
+    "raw_name": "wasm-remote",
     "short": "Score Remote Control is the WebAssembly app for remote control of score",
     "size": "9M",
     "key": "39444335-3230-4830-3154-E4E749508F18",
