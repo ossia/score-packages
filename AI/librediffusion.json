@@ -3,11 +3,16 @@
     "raw_name": "librediffusion",
     "kind": "ai-model",
     "short": "StreamDiffusion real-time image generation",
-    "license": "apache-2.0",
+    "license": "APGL-3.0, Apache-2.0",
     "size": "20MB",
     "key": "d0add344-cb23-4d3f-817b-3619505565d1",
-    "version": 2,
+    "version": 3,
     "file": "https://github.com/jcelerier/librediffusion/archive/refs/heads/main.zip",
     "url": "https://github.com/jcelerier/librediffusion",
-    "category": "AI Models"
+    "category": "AI Models",  
+    "windows-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
+     "windows-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-pc-windows-msvc.zip",
+      "linux-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+       "linux-amd64": "https://github.com/jcelerier/librediffusion/releases/download/v1.0.0/x86_64-unknown-linux-gnu.zip",
+
 }
