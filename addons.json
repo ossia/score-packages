@@ -10,7 +10,7 @@
     "https://raw.githubusercontent.com/ossia/bitfocus-modules-data/refs/heads/master/addon.json",
 
     "https://raw.githubusercontent.com/ossia/uv/main/addon.json",
-    "https://raw.githubusercontent.com/ossia/cuda/main/addon.json",
+    "https://raw.githubusercontent.com/ossia/cuda/refs/tags/v12.9/addon.json",
 
     "https://raw.githubusercontent.com/ossia/score-packages/master/Addons/wasm-remote.json",
 
