@@ -7,7 +7,6 @@
     "size": "20MB",
     "key": "d0add344-cb23-4d3f-817b-3619505565d1",
     "version": 4,
-    "file": "https://github.com/jcelerier/librediffusion/archive/refs/tags/v2.0.0.zip",
     "url": "https://github.com/jcelerier/librediffusion",
     "category": "AI Models",
     "windows-x86_64": "https://github.com/jcelerier/librediffusion/releases/download/v2.0.0/x86_64-pc-windows-msvc.zip",
