@@ -11,6 +11,7 @@
 
     "https://raw.githubusercontent.com/ossia/uv/main/addon.json",
     "https://raw.githubusercontent.com/ossia/cuda/refs/tags/v12.9/addon.json",
+    "https://raw.githubusercontent.com/ossia/score-addon-orbbec/master/depth-camera.json",
 
     "https://raw.githubusercontent.com/ossia/score-packages/master/Addons/wasm-remote.json",
 
