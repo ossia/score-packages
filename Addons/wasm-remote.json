@@ -2,8 +2,10 @@
     "name": "Remote Control",
     "raw_name": "wasm-remote",
     "short": "Score Remote Control is the WebAssembly app for remote control of score",
-    "size": "9M",
+    "long": "Served by score's Remote Control HTTP server: enable it in the settings, restart score, then open http://<score's address>:10111/ossia_remote.html from any browser on the network.",
+    "size": "35M",
+    "version": 2,
     "key": "39444335-3230-4830-3154-E4E749508F18",
-    "file": "https://github.com/ossia/qml-remote/releases/download/v1.11/build-wasm.zip",
+    "file": "https://github.com/ossia/qml-remote/releases/download/v2.0.0/ossia-remote-wasm.zip",
     "url": "https://github.com/ossia/qml-remote/"
 }
